@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="action_contact">Contact us</string>
+    <string name="error">error</string>
+    <string-array name="cityNames">
+        <item>Cairo</item>
+        <item>Spain</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Roma</item>
+
+    </string-array>
+</resources>
